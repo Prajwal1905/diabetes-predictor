@@ -1,0 +1,23 @@
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environment folders
+.venv/
+env/
+venv/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore model files (optional, only if you don’t want to track them)
+*.pkl
+
+# Ignore data files (optional)
+*.csv
+
+# Mac and Windows
+.DS_Store
+Thumbs.db
